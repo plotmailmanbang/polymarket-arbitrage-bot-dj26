@@ -1,4 +1,4 @@
-# 
+# Polymarket quantitative Algorithm: portfolio-optimization & take-profit-orders is the best Polymarket algorithm, featuring portfolio-optimization and take-profit-orders. Smart,
 
 
 
